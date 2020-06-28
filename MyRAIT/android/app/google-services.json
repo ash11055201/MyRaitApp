@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410202759603",
+    "firebase_url": "https://myrait-5089d.firebaseio.com",
+    "project_id": "myrait-5089d",
+    "storage_bucket": "myrait-5089d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410202759603:android:6c48a7831c3abcd8ec6bc6",
+        "android_client_info": {
+          "package_name": "com.example.MyRAIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410202759603-9pvegf8vds506mdl82pgkqi8spk3djul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTo4F3GUd7F6Q4t-YJjKlkSCwpA0ytZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410202759603-9pvegf8vds506mdl82pgkqi8spk3djul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
